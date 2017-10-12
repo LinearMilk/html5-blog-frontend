@@ -1,0 +1,30 @@
+{
+  "name": "blog_frontend",
+  "version": "1.0.0",
+  "description": "blog frontend from HTML5 tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinearMilk/html5-blog-frontend.git"
+  },
+  "keywords": [
+    "HTML5",
+    "front_end",
+    "tutorial"
+  ],
+  "author": "Witold Henszel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinearMilk/html5-blog-frontend/issues"
+  },
+  "homepage": "https://github.com/LinearMilk/html5-blog-frontend#readme",
+
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
+  }
+
+}
